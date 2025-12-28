@@ -74,7 +74,7 @@ churn_modelling_usingANN/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/churn_modelling_usingANN.git
+https://github.com/JahnaviSingh2005/churn_modelling_usingANN.git
 ```
 
 Move into the project directory:
